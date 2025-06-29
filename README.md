@@ -4,7 +4,7 @@ The objective of this project is to design and implement a scalable, cloud-based
 
 **Architecture Diagram:**
 
-![Architecture Diagram] (https://github.com/NisanthTumu/FabricDataWarehousing/blob/main/FabricDWH.jpg)
+![Architecture Diagram](https://github.com/NisanthTumu/FabricDataWarehousing/blob/main/FabricDWH.jpg)
 
 **🎯 Project Coverage:**
 
